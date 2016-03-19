@@ -1,0 +1,1 @@
+var data = '[ { "name": "Female", "children": [ { "name": "DX1", "children": [ { "name": "PR1", "children": [ { "name": "Risk" } ] }, { "name": "PR2" } ] }, { "name": "DX2", "children": [ { "name": "Jeff", "size": 3534 }, { "name": "Buffy", "size": 5731 } ] } ] }, { "name": "AfricanAmerican" } ]';

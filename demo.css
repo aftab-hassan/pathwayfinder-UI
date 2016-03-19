@@ -1,0 +1,39 @@
+/*g.type-TK > rect {
+  fill: #00ffd0;
+}
+
+g.type-S > rect {
+  fill: #988;
+}*/
+
+g.type-INVISIBLE > rect {
+  /* fill: #FFA500;*/
+  fill: #FFFFFF;
+}
+
+g.type-GRAYOUT > rect {
+  fill: #D3D3D3;
+}
+
+g.type-ORANGE > rect {
+  fill: #FFA500;
+}
+
+text {
+  font-weight: 300;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+  font-size: 14px;
+}
+
+.node rect {
+  stroke: #7FFF00;
+  /* stroke: #00FF00; */
+  /* stroke: #FFA500; */
+  stroke-width: 3px;
+}
+
+.edgePath path {
+  stroke: #333;
+  stroke-width: 1.5px;
+  fill: none;
+}
